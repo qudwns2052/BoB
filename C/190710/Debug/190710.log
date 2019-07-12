@@ -1,7 +1,4 @@
-﻿  10250.c
-C:\Users\qudwn\source\repos\C\190710\10250.c(7,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  3003.c
+C:\Users\qudwn\source\repos\C\190710\3003.c(10,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
-C:\Users\qudwn\source\repos\C\190710\10250.c(17,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
-C:\Users\qudwn\source\repos\C\190710\10250.c(13,6): warning C4101:  'temp' :참조되지 않은 지역 변수입니다.
   190710.vcxproj -> C:\Users\qudwn\source\repos\C\190710\Debug\190710.exe
