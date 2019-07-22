@@ -1,0 +1,7 @@
+﻿  ClassA.cpp
+  ClassB.cpp
+  someProject.cpp
+C:\Users\qudwn\source\repos\C++\190721\Src\someProject.cpp(8,9): warning C4101:  'a' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+C:\Users\qudwn\source\repos\C++\190721\Src\someProject.cpp(9,9): warning C4101:  'b' :참조되지 않은 지역 변수입니다.
+  190721.vcxproj -> C:\Users\qudwn\source\repos\C++\190721\Src\../Build/Win32Debug\190721.exe

@@ -1,0 +1,4 @@
+﻿  BankingSystemVer01.cpp
+C:\Users\qudwn\source\repos\C++\OOP_Project\Src\BankingSystemVer01.cpp(15,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+  OOP_Project.vcxproj -> C:\Users\qudwn\source\repos\C++\OOP_Project\Src\../Build/x64Debug\OOP_Project.exe

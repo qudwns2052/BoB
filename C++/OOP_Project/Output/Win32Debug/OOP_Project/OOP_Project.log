@@ -1,0 +1,3 @@
+﻿  ConstObject.cpp
+C:\Users\qudwn\source\repos\C++\OOP_Project\Src\ConstObject.cpp(25,15): error C2662:  'SoSimple &SoSimple::AddNum(int)': 'this' 포인터를 'const SoSimple'에서 'SoSimple &'(으)로 변환할 수 없습니다.
+C:\Users\qudwn\source\repos\C++\OOP_Project\Src\ConstObject.cpp(25,2): message :  변환하면서 한정자가 손실됩니다.
